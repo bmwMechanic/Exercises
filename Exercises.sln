@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banknoten_Code", "Banknoten_Code\Banknoten_Code.csproj", "{284EECB3-73E5-44A7-B95B-6D461FF17C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banknoten_Code", "Banknoten_Code\Banknoten_Code.csproj", "{284EECB3-73E5-44A7-B95B-6D461FF17C90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KreditkartenPruefung", "KreditkartenPruefung\KreditkartenPruefung.csproj", "{ECA79ADE-24F2-410A-A743-CAF88FF10F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KreditkartenPruefung", "KreditkartenPruefung\KreditkartenPruefung.csproj", "{ECA79ADE-24F2-410A-A743-CAF88FF10F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schnittmenge", "Schnittmenge\Schnittmenge.csproj", "{62C235AC-46EA-4663-A6E1-0E2FF5ED1704}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schnittmenge", "Schnittmenge\Schnittmenge.csproj", "{62C235AC-46EA-4663-A6E1-0E2FF5ED1704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminplanung", "Terminplanung\Terminplanung.csproj", "{1CD88F2C-FA31-490C-8791-582051AA54DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Terminplanung", "Terminplanung\Terminplanung.csproj", "{1CD88F2C-FA31-490C-8791-582051AA54DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeinBarcode", "WeinBarcode\WeinBarcode.csproj", "{18E83BA1-BFDA-4EB5-8581-E390EBD196DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeinBarcode", "WeinBarcode\WeinBarcode.csproj", "{18E83BA1-BFDA-4EB5-8581-E390EBD196DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monty", "Monty\Monty.csproj", "{56400CDA-989E-44E8-99C3-61BF816DA1B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{18E83BA1-BFDA-4EB5-8581-E390EBD196DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18E83BA1-BFDA-4EB5-8581-E390EBD196DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18E83BA1-BFDA-4EB5-8581-E390EBD196DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56400CDA-989E-44E8-99C3-61BF816DA1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56400CDA-989E-44E8-99C3-61BF816DA1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56400CDA-989E-44E8-99C3-61BF816DA1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56400CDA-989E-44E8-99C3-61BF816DA1B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
